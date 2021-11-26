@@ -1,0 +1,9 @@
+.idea
+lib/confs/
+symfony/cache/
+symfony/config/
+symfony/log/
+symfony/web/
+symfony/apps/orangehrm/config/
+symfony/lib/vendor
+
